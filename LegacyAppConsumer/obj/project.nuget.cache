@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "1EGzNrjz9L+t3MerLJm2CCFqvkQkOr678LaHHMhjg4nCS3eh9KlAJIFbTIxP+1uORUXSpQE7HQD5CoPBQ+13Yw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\staho\\OneDrive\\Pulpit\\zadanie_1\\LegacyAppConsumer\\LegacyAppConsumer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\staho\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
+    "C:\\Users\\staho\\.nuget\\packages\\moq\\4.20.70\\moq.4.20.70.nupkg.sha512",
+    "C:\\Users\\staho\\.nuget\\packages\\system.diagnostics.eventlog\\6.0.0\\system.diagnostics.eventlog.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
